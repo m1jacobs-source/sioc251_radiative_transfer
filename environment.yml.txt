@@ -1,8 +1,0 @@
-name: sioc251
-dependencies:
-- python=3.11
-- numpy
-- scipy
-- matplotlib
-- pandas
-- jupyter
